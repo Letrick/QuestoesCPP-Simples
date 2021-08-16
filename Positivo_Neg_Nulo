@@ -4,7 +4,7 @@ int main () {
 	
 	int numero;
 	
-	std::cout << "Digite um numero e saberemos se e PAR ou IMPAR: ";
+	std::cout << "Digite um numero e saberemos se e Positivo, negativo ou NULO: ";
 	std::cin  >> numero;
 	
 	
