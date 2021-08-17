@@ -9,41 +9,9 @@ float celsius, calcFahrenheit;
 
 	calcFahrenheit = ( 9 * celsius + 160 ) / 5;
 
-
-
-
 	std::cout << "\n";
-	
+
 	std::cout << "Celsius convertido em Fahrenheit: " << calcFahrenheit;
 	
-
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
