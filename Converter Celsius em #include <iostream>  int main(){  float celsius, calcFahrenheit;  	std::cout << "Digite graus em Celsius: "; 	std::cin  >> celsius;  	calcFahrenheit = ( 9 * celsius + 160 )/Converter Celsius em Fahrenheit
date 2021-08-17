@@ -2,7 +2,7 @@
 
 int main(){
 
-float velMedia, celsius, calcFahrenheit, QtdeLitros;
+float celsius, calcFahrenheit;
 
 	std::cout << "Digite graus em Celsius: ";
 	std::cin  >> celsius;
@@ -10,40 +10,11 @@ float velMedia, celsius, calcFahrenheit, QtdeLitros;
 	calcFahrenheit = ( 9 * celsius + 160 ) / 5;
 
 
-
-
 	std::cout << "\n";
 	
 	std::cout << "Celsius convertido em Fahrenheit: " << calcFahrenheit;
 	
 
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
+
