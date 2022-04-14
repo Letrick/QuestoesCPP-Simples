@@ -1,1 +1,1 @@
-# Nivel1-C-Simples
+# Questões variadas em C++ (Par/impar, conversao de temperatura)
